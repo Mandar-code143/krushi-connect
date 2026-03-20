@@ -1,0 +1,7 @@
+project_id = "tncabpuvengqrvcpdyih"
+
+[functions.ivr-initiate]
+verify_jwt = false
+
+[functions.ivr-webhook]
+verify_jwt = false
